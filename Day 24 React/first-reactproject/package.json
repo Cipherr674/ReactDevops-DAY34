@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://Cipherr674.github.io/ReactDevops-DAY34",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
